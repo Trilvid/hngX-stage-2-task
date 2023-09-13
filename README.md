@@ -16,6 +16,7 @@ This README.md file will guide you through setting up, running, and using a simp
   - [Read All Items](#read-all-items)
   - [Update an Item](#update-an-item)
   - [Delete an Item](#delete-an-item)
+- [UML Design](#uml-design)
 - [Testing](#testing)
 - [License](#license)
 
@@ -150,6 +151,9 @@ npm test
 
 You can test your endpoint with postman
 
+## UML Design
+
+You can view this design [Here](https://app.creately.com/d/wTEzBbC5m62/view)
 
 ## License
 
